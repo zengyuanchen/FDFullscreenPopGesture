@@ -1,3 +1,5 @@
+# Fork原因：原仓库tag v1.1不是最新代码, 此仓库仅用于生成master分支最新代码的tag 1.2，制作私有库
+
 # FDFullscreenPopGesture
 An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
 
